@@ -1,1 +1,1 @@
-# Bookstore
+# This is a one-page responsive bookstore front-end built with HTML, CSS, and Bootstrap. It includes a navigation bar, a categories section (e.g., Science, History), an "About Us" section, and a contact form. The design uses Bootstrap's grid system for layout and demonstrates clean structure, styling, and basic form handling.
